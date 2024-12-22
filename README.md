@@ -1,5 +1,6 @@
-# Hi there, I'm Musfiqur Jahan 👋  
+# Hi there, I'm Musfiqur Jahin 👋  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Musfiqur+Jahin+👋;Frontend+Dev+%7C+Cyberpunk+Enthusiast;Building+Innovative+Web+Apps;Dark+Mode+Forever+%E2%98%81%EF%B8%8F;Hack+the+World+One+Line+at+a+Time!)  
 ![Profile Views](https://komarev.com/ghpvc/?username=musfiqurjahin&color=blue)  
 
 I’m a passionate **software developer** with a knack for building innovative solutions and exploring emerging technologies. I enjoy contributing to open-source projects, sharing knowledge, and constantly expanding my skill set.  
