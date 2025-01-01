@@ -11,10 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
-
----
-
-## 📈 GitHub Stats  
+  
 
 ![Musfiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=radical)  
@@ -22,23 +19,24 @@
 
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Email" width="80">
   </a>
   <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="80">
   </a>
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+    <img src="https://img.icons8.com/ios-filled/100/github.png" alt="GitHub" width="80">
   </a>
   <a href="https://www.facebook.com/musfiqurjahin">
-    <img src="https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.icons8.com/fluency/96/facebook-new.png" alt="Facebook" width="80">
   </a>
   <a href="https://twitter.com/your-profile">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    <img src="https://readme-typing-svg.herokuapp.com?color=1DA1F2&lines=Follow+on+Twitter&center=true&width=200" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/your-profile">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E4405F&lines=Follow+on+Instagram&center=true&width=200" alt="Instagram">
   </a>
 </div>
+
 
 
