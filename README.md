@@ -20,8 +20,25 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=radical)  
 
 
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/your-username)
-[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/musfiqurjahin)
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/musfiqurjahin">
+    <img src="https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/your-profile">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/your-profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
 
