@@ -17,6 +17,6 @@
 <!-- Top Languages with Compact Layout -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
 
-<!-- GitHub Contribution Activity -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=musfiqurjahin&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="GitHub Contribution Activity" width="60%" />
-
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=musfiqurjahin&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
