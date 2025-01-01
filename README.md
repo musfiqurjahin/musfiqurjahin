@@ -13,8 +13,19 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
   
 
-![Musfiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=radical)  
+<div align="center">
+
+  <!-- GitHub Stats with Unique Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Musfiqur's GitHub Stats" width="60%" />
+
+  <!-- Top Languages with Compact Layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" width="60%" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=musfiqurjahin&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="60%" />
+
+</div>
+
 
 
 <div align="center">
