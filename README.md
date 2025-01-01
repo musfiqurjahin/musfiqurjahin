@@ -31,10 +31,10 @@
     <img src="https://img.icons8.com/fluency/96/facebook-new.png" alt="Facebook" width="80">
   </a>
   <a href="https://twitter.com/your-profile">
-    <img src="https://readme-typing-svg.herokuapp.com?color=1DA1F2&lines=Follow+on+Twitter&center=true&width=200" alt="Twitter">
+    <img src="https://img.icons8.com/color/96/twitter.png" alt="Twitter" width="80">
   </a>
   <a href="https://www.instagram.com/your-profile">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E4405F&lines=Follow+on+Instagram&center=true&width=200" alt="Instagram">
+    <img src="https://img.icons8.com/color/96/instagram-new.png" alt="Instagram" width="80">
   </a>
 </div>
 
