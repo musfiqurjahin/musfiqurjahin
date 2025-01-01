@@ -1,3 +1,8 @@
+<head>
+  <!-- FontAwesome CSS Link -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
 <div align="center">
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=musfiqurjahin&color=blue&style=flat-square" alt="Profile Views" />
