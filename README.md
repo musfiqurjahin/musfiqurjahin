@@ -23,23 +23,3 @@
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=musfiqurjahin&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="60%" />
 </div>
-  <!-- Social Media Links -->
-  <a href="mailto:musfiqur.jahin@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Email" width="80">
-  </a>
-  <a href="https://www.linkedin.com/in/musfiqur_jahin">
-    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="80">
-  </a>
-  <a href="https://github.com/your-musfiqurjahin">
-    <img src="https://img.icons8.com/ios-filled/100/github.png" alt="GitHub" width="80">
-  </a>
-  <a href="https://www.facebook.com/musfiqurjahin">
-    <img src="https://img.icons8.com/fluency/96/facebook-new.png" alt="Facebook" width="80">
-  </a>
-  <a href="https://twitter.com/musfiqur_jahin">
-    <img src="https://img.icons8.com/color/96/twitter.png" alt="Twitter" width="80">
-  </a>
-  <a href="https://www.instagram.com/musfiqur_jahin">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" alt="Instagram" width="80">
-  </a>
-</div>
