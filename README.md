@@ -22,7 +22,7 @@
 
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=musfiqurjahin&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="60%" />
-
+</div>
   <!-- Social Media Links -->
   <a href="mailto:musfiqur.jahin@gmail.com">
     <img src="https://img.icons8.com/fluency/96/gmail.png" alt="Email" width="80">
