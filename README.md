@@ -11,7 +11,7 @@
   <!-- Tech Stack Icons from Icons8 -->
   <img src="https://img.icons8.com/fluency/96/javascript.png" alt="JavaScript" width="120">
   <img src="https://img.icons8.com/fluency/96/python.png" alt="Python" width="120">
-  <img src="https://img.icons8.com/fluency/96/react.png" alt="React" width="120">
+  <img src="https://img.icons8.com/fluency/96/react-native.png" alt="React" width="120">
   <img src="https://img.icons8.com/fluency/96/nodejs.png" alt="Node.js" width="120">
   <img src="https://img.icons8.com/fluency/96/docker.png" alt="Docker" width="120">
   <img src="https://img.icons8.com/fluency/96/git.png" alt="Git" width="120">
@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/fluency/96/visual-studio-code.png" alt="VS Code" width="120">
 
 </div>
+
 
 
   
