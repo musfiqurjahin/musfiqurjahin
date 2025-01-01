@@ -4,15 +4,8 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Musfiqur+Jahin+👋;Frontend+Developer+%7C+Problem+Solver;Crafting+Digital+Experiences;Building+Innovative+Web+Apps;Turning+Ideas+Into+Reality;Dream+Big,+Code+Relentlessly!)
   
-  <!-- Tech Stack Icons from Icons8 -->
-  <img src="https://img.icons8.com/fluency/96/javascript.png" alt="JavaScript" width="120">
-  <img src="https://img.icons8.com/fluency/96/python.png" alt="Python" width="120">
-  <img src="https://img.icons8.com/fluency/96/react-native.png" alt="React" width="120">
-  <img src="https://img.icons8.com/fluency/96/nodejs.png" alt="Node.js" width="120">
-  <img src="https://img.icons8.com/fluency/96/docker.png" alt="Docker" width="120">
-  <img src="https://img.icons8.com/fluency/96/git.png" alt="Git" width="120">
-  <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="120">
-  <img src="https://img.icons8.com/fluency/96/visual-studio-code.png" alt="VS Code" width="120">
+![Learning Progress](https://progress-bar.dev/70/?title=JavaScript)
+
 
   <!-- GitHub Stats with Unique Theme -->
   <img src="https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Musfiqur's GitHub Stats" width="60%" />
