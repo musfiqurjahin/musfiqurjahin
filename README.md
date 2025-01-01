@@ -3,8 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=musfiqurjahin&color=blue&style=flat-square" alt="Profile Views" />
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Musfiqur+Jahin+👋;Frontend+Developer+%7C+Problem+Solver;Crafting+Digital+Experiences;Building+Innovative+Web+Apps;Turning+Ideas+Into+Reality;Dream+Big,+Code+Relentlessly!)
+
   
-![Learning Progress](https://progress-bar.dev/70/?title=JavaScript)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musfiqurjahin&theme=github)
+
 
 
   <!-- GitHub Stats with Unique Theme -->
