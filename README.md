@@ -20,9 +20,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=radical)  
 
 
-## 🔗 Connect with Me  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/your-username)
+[![Facebook](https://img.shields.io/badge/Facebook-%233b5998.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/musfiqurjahin)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/musfiqurjahin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/musfiqurjahin)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/musfiqurjahin)  
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:your-email@example.com)  
