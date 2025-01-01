@@ -8,17 +8,18 @@
 
 <div align="center">
   
-  <!-- Tech Stack Icons -->
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" width="120">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" width="120">
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" width="120">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="Node.js" width="120">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" width="120">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" width="120">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" width="120">
-  <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code" alt="VS Code" width="120">
+  <!-- Tech Stack Icons from Icons8 -->
+  <img src="https://img.icons8.com/fluency/96/javascript.png" alt="JavaScript" width="120">
+  <img src="https://img.icons8.com/fluency/96/python.png" alt="Python" width="120">
+  <img src="https://img.icons8.com/fluency/96/react.png" alt="React" width="120">
+  <img src="https://img.icons8.com/fluency/96/nodejs.png" alt="Node.js" width="120">
+  <img src="https://img.icons8.com/fluency/96/docker.png" alt="Docker" width="120">
+  <img src="https://img.icons8.com/fluency/96/git.png" alt="Git" width="120">
+  <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="120">
+  <img src="https://img.icons8.com/fluency/96/visual-studio-code.png" alt="VS Code" width="120">
 
 </div>
+
 
   
 
