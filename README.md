@@ -5,7 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Musfiqur+Jahin+👋;Frontend+Developer+%7C+Problem+Solver;Crafting+Digital+Experiences;Building+Innovative+Web+Apps;Turning+Ideas+Into+Reality;Dream+Big,+Code+Relentlessly!)
 
-
+[![Musfiqur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&bg_color=000000&color=ff0000&line=00ff04&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ![Musfiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=radical&hide_title=true)
 
