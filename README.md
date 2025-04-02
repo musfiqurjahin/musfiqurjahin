@@ -19,4 +19,7 @@
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=musfiqurjahin&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="60%" />
+
+![Snake animation](https://github.com/musfiqurjahin/musfiqurjahin/blob/output/github-user-contribution.svg)
+
 </div>
