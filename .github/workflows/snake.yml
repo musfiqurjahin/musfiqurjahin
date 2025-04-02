@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: musfiqurjahin
+          outputs: |
+            dist/github-user-contribution.svg
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-animation
+          path: dist/github-user-contribution.svg
