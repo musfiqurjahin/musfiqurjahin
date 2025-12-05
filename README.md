@@ -18,17 +18,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats Grid -->
-<table align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
