@@ -26,19 +26,6 @@
 
 </div>
 
----
-
-## 🎯 **Weekly Development Breakdown**
-
-<!-- WakaTime Stats (You need to set up WakaTime first) -->
-<!-- 
-<p align="center">
-  <a href="https://wakatime.com/@musfiqurjahin">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=musfiqurjahin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" alt="WakaTime Stats" />
-  </a>
-</p>
--->
-
 
 ## 🛠️ **Tech Stack**
 
