@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;In+Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
 
 <!-- Profile Views Counter -->
 <p align="center">
@@ -55,12 +55,6 @@
 </p>
 -->
 
-*Note: To enable WakaTime stats, you need to:*
-1. *Sign up at [wakatime.com](https://wakatime.com)*
-2. *Install WakaTime plugin in your editor*
-3. *Your stats will automatically appear*
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -127,9 +121,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musfiqur-rahman-4075382a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musfiqurjahin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MusfiqurJahin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/musfiqur_jahin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/musfiqurjahin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musfiqurr047@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musfiqur.jahin@gmail.com)
 
 </div>
 
