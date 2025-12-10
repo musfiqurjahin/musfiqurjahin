@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Dynamic Header with Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;In+Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
+<!-- Dynamic Typing Header -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
 
-<!-- Profile Views Counter -->
+<!-- Profile Views & Social Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musfiqurjahin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/musfiqurjahin?label=Followers&style=social" alt="GitHub Followers" />
@@ -14,24 +14,33 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurjahin&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="60%" />
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurjahin&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="60%" />
-</p>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=musfiqurjahin&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<!-- Full Metrics Link -->
+<a href="https://metrics.lecoq.io/insights/musfiqurjahin">
+  <img width="90%" src="https://metrics.lecoq.io/musfiqurjahin?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
+</a>
 
 </div>
 
+---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **Frontend**
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,19 +48,19 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### **Backend**
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Databases**
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **DevOps & Tools**
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -61,32 +70,7 @@
 
 ---
 
-## 📈 **GitHub Metrics & Activity**
-
-<div align="center">
-
-<!-- GitHub Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musfiqurjahin&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<!-- GitHub Metrics Full Page -->
-<div align="center">
-  <a href="https://metrics.lecoq.io/insights/musfiqurjahin">
-    <img width="90%" src="https://metrics.lecoq.io/musfiqurjahin?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
-  </a>
-</div>
-
-</div>
-
----
-
-## 📫 **Connect With Me**
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -100,7 +84,7 @@
 
 ---
 
-## 🎯 **What I'm Working On**
+## 🎯 Current Focus
 
 ```javascript
 const currentFocus = {
