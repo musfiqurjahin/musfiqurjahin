@@ -24,9 +24,6 @@
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=musfiqurjahin&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
 <!-- Full Metrics Link -->
 <a href="https://metrics.lecoq.io/insights/musfiqurjahin">
   <img width="90%" src="https://metrics.lecoq.io/musfiqurjahin?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
