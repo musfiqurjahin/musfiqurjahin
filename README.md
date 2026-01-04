@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
 
 <!-- Profile Views & Social Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musfiqurjahin&label=Profile%20Views&color=00FF88&style=flat" />
-  <img src="https://img.shields.io/github/followers/musfiqurjahin?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/musfiqurjahin?label=Total%20Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=musfiqurjahin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/musfiqurjahin?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/musfiqurjahin?label=Total%20Stars&style=social" alt="GitHub Stars" />
 </p>
 
 </div>
@@ -18,20 +18,16 @@
 
 <div align="center">
 
-<!-- GitHub Streak (WORKING API) -->
-<img src="https://streak-stats.demolab.com?user=musfiqurjahin&theme=github-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=8B949E" width="65%" />
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=musfiqurjahin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=00FF88&title_color=00FF88" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musfiqurjahin&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88" width="48%" />
-
-<br/><br/>
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurjahin&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="60%" />
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
+
+<!-- Full Metrics Link -->
+<a href="https://metrics.lecoq.io/insights/musfiqurjahin">
+  <img width="90%" src="https://metrics.lecoq.io/musfiqurjahin?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
+</a>
 
 </div>
 
