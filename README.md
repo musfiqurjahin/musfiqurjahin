@@ -19,7 +19,7 @@
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=musfiqurjahin&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" width="60%" />
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=musfiqurjahin&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88](https://streak-stats.demolab.com/?user=musfiqurjahin&theme=github-dark&hide_border=true)" alt="GitHub Streak" width="60%" />
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
