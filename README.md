@@ -12,22 +12,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Streak Stats -->
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=musfiqurjahin&theme=github-dark&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" alt="Activity Graph" width="90%" />
-
-
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
