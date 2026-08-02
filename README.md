@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)
+<!-- Dynamic Typing Header 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Musfiqur+Jahin;Future+Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Always+Learning+New+Tech)-->
 
 <!-- Profile Views & Social Stats -->
 <p align="center">
